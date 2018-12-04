@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Project4.cpp
+Project4.cpp(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 C:\Users\7h\Desktop\软件工程\Project4\Release\Project4.lib 和对象 C:\Users\7h\Desktop\软件工程\Project4\Release\Project4.exp
+  正在生成代码
+  All 450 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project4.vcxproj -> C:\Users\7h\Desktop\软件工程\Project4\Release\Project4.exe
+  Project4.vcxproj -> C:\Users\7h\Desktop\软件工程\Project4\Release\Project4.pdb (Full PDB)
